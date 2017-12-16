@@ -1,9 +1,8 @@
 {
-    "name": "cwp-10",
+    "name": "cwp-11",
     "author": "Egwinn",
     "dependencies": {
         "body-parser": "^1.18.2",
-        "express": "^4.16.2",
-        "uid": "0.0.2"
+        "express": "^4.16.2"
     }
 }
